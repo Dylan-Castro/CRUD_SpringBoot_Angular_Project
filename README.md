@@ -3,3 +3,5 @@ Mi nombre es Dylan Rafael Castro Zorrilla, en la rama principal dejare el proyec
 
 Nota Importante:
 - Ejecutar el backend springboot con el puerto 8080.
+- Ejecutar el fronted angular con el puerto 2400(Recomendable).
+
